@@ -1,0 +1,1 @@
+export const SERVER = "https://super-assistant-assignment-6l2ily7y4-vrishabh081.vercel.app";
